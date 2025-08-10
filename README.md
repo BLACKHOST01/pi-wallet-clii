@@ -7,7 +7,7 @@
 
 1. Setup the pi-wallet command globally
 ```bash
-git clone https://github.com/blackhost01/pi-wallet-clii
+git clone https://github.com/BLACKHOST01/pi-wallet-clii.git
 cd pi-wallet-clii
 npm i -g
 ```
