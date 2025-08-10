@@ -2,14 +2,13 @@
 
 # Pi Wallet CLI
 
-[![GitHub](https://img.shields.io/github/license/limitpointinf0/pi-wallet-cli)](https://github.com/limitpointinf0/pi-wallet-cli/blob/main/LICENSE)
 
 ## Getting Started: A Simple Walkthrough
 
 1. Setup the pi-wallet command globally
 ```bash
-git clone https://github.com/limitpointinf0/pi-wallet-cli
-cd pi-wallet-cli
+git clone https://github.com/blackhost01/pi-wallet-clii
+cd pi-wallet-clii
 npm i -g
 ```
 
